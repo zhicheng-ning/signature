@@ -1,0 +1,33 @@
+[1mdiff --cc README.md[m
+[1mindex 242096d,d3d0a6e..0000000[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@@ -1,20 -1,11 +1,26 @@@[m
+  # signature[m
+  sign your name[m
+[32m +[m
+  github-id name[m
+[32m +[m
+  zhicheng-ning 宁志成[m
+[32m +[m
+  tyn1998 唐烨男[m
+[32m +[m
+  Bruce-Jay 林以任[m
+[32m +[m
+  Neat12138 刘天扬[m
+[32m +[m
+  GuoTeng-ECNU 郭腾[m
+[32m++<<<<<<< HEAD[m
+[32m +[m
+  JasonXQH 徐啟航[m
+[32m +[m
+[32m +Airthe911 李嘉豪[m
+[32m +[m
+[31m- XuJun2002 徐骏[m
+[32m+ XuJun2002 徐骏[m
+[31m -Airthe911 李嘉豪[m
+[32m++=======[m
+[32m++JasonXQH 徐啟航[m
+[32m++XuJun2002 徐骏[m
+[32m++Airthe911 李嘉豪[m
+[32m++>>>>>>> 0026a02e555b6ab058f37a1013a7a36dbf5b01f3[m
