@@ -11,3 +11,4 @@ github-id name
 - Airthe911 李嘉豪
 - 10195501406 许定胜
 - Zi1l 李鸿斌
+- Zzzzzhuzhiwei 朱志炜
